@@ -1,0 +1,11 @@
+body{
+    background-color:black;
+}
+/* form */
+#form{
+    /* box model */
+     margin-left: 450px;
+     margin-bottom: -200px;
+     height: 55%;
+     width: 25%;
+}
